@@ -1,0 +1,173 @@
+{
+    "known_folders": {
+        "1. epic games": [
+            "Epic Games, Inc.",
+            "Epic Games Launcher",
+            "游戏平台 (95%)"
+        ],
+        "2. steam": [
+            "Valve Corporation",
+            "Steam",
+            "游戏平台 (98%)"
+        ],
+        "3. origin": [
+            "Electronic Arts",
+            "Origin",
+            "游戏平台 (96%)"
+        ],
+        "4. battle.net": [
+            "Blizzard Entertainment",
+            "Battle.net",
+            "游戏平台 (97%)"
+        ],
+        "5. uplay": [
+            "Ubisoft",
+            "Uplay",
+            "游戏平台 (95%)"
+        ],
+        "6. riotgames": [
+            "Riot Games",
+            "Riot Games",
+            "游戏平台 (90%)"
+        ],
+        "7. microsoft office": [
+            "Microsoft Corporation",
+            "Microsoft Office",
+            "办公套件 (99%)"
+        ],
+        "8. adobe photoshop": [
+            "Adobe Systems",
+            "Adobe Photoshop",
+            "图像编辑软件 (98%)"
+        ],
+        "9. anaconda": [
+            "Anaconda, Inc.",
+            "Anaconda",
+            "Python 数据科学平台 (98%)"
+        ],
+        "10. android": [
+            "Google",
+            "Android SDK",
+            "Android 开发工具包 (97%)"
+        ],
+        "11. jetbrains": [
+            "JetBrains",
+            "JetBrains Toolbox",
+            "开发工具 (96%)"
+        ],
+        "12. intellij idea": [
+            "JetBrains",
+            "IntelliJ IDEA",
+            "集成开发环境 (96%)"
+        ],
+        "13. pycharm": [
+            "JetBrains",
+            "PyCharm",
+            "Python 集成开发环境 (96%)"
+        ],
+        "14. visual studio": [
+            "Microsoft",
+            "Visual Studio",
+            "集成开发环境 (99%)"
+        ],
+        "15. mysql": [
+            "MySQL",
+            "MySQL Server",
+            "数据库管理系统 (95%)"
+        ],
+        "16. postgresql": [
+            "PostgreSQL Global Development Group",
+            "PostgreSQL",
+            "开源数据库管理系统 (95%)"
+        ],
+        "17. nodejs": [
+            "Node.js Foundation",
+            "Node.js",
+            "JavaScript 运行时 (95%)"
+        ],
+        "18. python": [
+            "Python Software Foundation",
+            "Python",
+            "编程语言解释器 (98%)"
+        ],
+        "19. git": [
+            "Git",
+            "Git",
+            "版本控制系统 (97%)"
+        ],
+        "20. docker": [
+            "Docker, Inc.",
+            "Docker",
+            "容器化平台 (96%)"
+        ],
+        "21. kubernetes": [
+            "The Cloud Native Computing Foundation",
+            "Kubernetes",
+            "容器编排平台 (95%)"
+        ],
+        "22. vmware": [
+            "VMware",
+            "VMware Workstation",
+            "虚拟机软件 (96%)"
+        ],
+        "23. virtualbox": [
+            "Oracle",
+            "VirtualBox",
+            "虚拟机软件 (95%)"
+        ],
+        "24. blender": [
+            "Blender Foundation",
+            "Blender",
+            "3D 建模和动画软件 (96%)"
+        ],
+        "25. sketchup": [
+            "Trimble",
+            "SkuetchUp",
+            "3D 建模软件 (95%)"
+        ],
+        "26. autocad": [
+            "Autodesk",
+            "AutoCAD",
+            "计算机辅助设计软件 (97%)"
+        ],
+        "27. solidworks": [
+            "Dassault Systèmes",
+            "SOLIDWORKS",
+            "3D CAD 软件 (96%)"
+        ],
+        "28. adobe premiere pro": [
+            "Adobe Systems",
+            "Adobe Premiere Pro",
+            "视频编辑软件 (98%)"
+        ],
+        "29. adobe after effects": [
+            "Adobe Systems",
+            "Adobe After Effects",
+            "视觉特效和动态图形软件 (98%)"
+        ],
+        "30. microsoft teams": [
+            "Microsoft",
+            "Microsoft Teams",
+            "协作和通信平台 (99%)"
+        ],
+        "- 路径": [
+            "腾讯",
+            "QQ",
+            "文件传输记录"
+        ]
+    },
+    "folder_cache": {
+        "C": {
+            "type": "未知公司 - 未知应用 - 未知用途",
+            "impact": "低影响，可删除",
+            "priority": "高",
+            "owner": "未知"
+        },
+        "- 路径": {
+            "type": "腾讯 - QQ - 文件传输记录",
+            "impact": "高影响，谨慎删除",
+            "priority": "低",
+            "owner": "腾讯 (QQ)"
+        }
+    }
+}
